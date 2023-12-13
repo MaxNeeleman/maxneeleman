@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A student @ Avans Hogeschool learning to be a software developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxneeleman" alt="maxneeleman" /></a> </p>
-
 - 🔭 I’m currently working on [advent of code 2023](https://adventofcode.com/)
 
 - 🌱 I’m currently learning **Python, Kotlin**
