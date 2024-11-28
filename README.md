@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A student @ Avans Hogeschool learning to be a software developer</h3>
 
-- 🔭 I’m currently working on [advent of code 2023](https://adventofcode.com/)
-
-- 🌱 I’m currently learning **Python, Kotlin**
-
-- 📫 How to reach me **maxneeleman@hotmail.nl**
-
-- 📄 Know about my experiences [https://maxneeleman.github.io/](https://maxneeleman.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
